@@ -1,0 +1,2 @@
+Case ID,Qty Completed,Qty for MRB,activity_duration,hour,timesincelastevent,timesincecasestart,event_nr,open_cases,Predicted_Distance,Activity_Lapping - Machine 1,Resource_Machine 1 - Lapping,Report Type_D,Worker ID_ID0998,weekday_6,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,true_value,predicted_value,relative_error
+Case 83_15,20.0,0.0,1740.0,16.0,1740.0,1090500.0,15.0,46.0,0.0,1,1,1,1,1,1,1,1,0.0,725999.94,725999.9375

@@ -1,0 +1,7 @@
+Case ID,Qty Completed,Qty for MRB,activity_duration,hour,timesincelastevent,timesincecasestart,event_nr,open_cases,Activity_Final Inspection Q.C.,Activity_Packing,Activity_Round Grinding - Machine 12,Activity_Turning & Milling - Machine 5,Activity_Turning & Milling Q.C.,Resource_Machine 12 - Grinding,Resource_Machine 5 - Turning & Milling,Resource_Packing,Resource_Quality Check 1,Report Type_D,Worker ID_ID4287,Worker ID_ID4493,Worker ID_ID4529,Worker ID_ID4820,Worker ID_ID4872,weekday_0,weekday_3,weekday_4,weekday_6,true_value,predicted_value,relative_error
+Case 101_17,17.0,0.0,3600.0,1.0,48540.0,1054620.0,17.0,43.0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0.0,968369.75,43.3857414874552
+Case 111_17,209.0,0.0,7260.0,9.0,9540.0,1156140.0,17.0,42.0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,164040.0,4846566.0,28.545025603511338
+Case 123_17,76.0,0.0,9660.0,9.0,1200.0,375960.0,17.0,53.0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,22320.0,2406205.0,106.8048835125448
+Case 135_17,10.0,0.0,12660.0,15.0,23400.0,378660.0,17.0,42.0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,330360.0,6022444.5,17.22994460588449
+Case 174_17,0.0,0.0,4200.0,15.0,4260.0,912720.0,17.0,25.0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,66660.0,916113.0,12.743069306930693
+Case 53_17,9.0,0.0,840.0,10.0,76440.0,758880.0,17.0,47.0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,137760.0,87870.93,0.3621448193416086

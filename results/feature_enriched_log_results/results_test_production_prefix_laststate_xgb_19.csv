@@ -1,0 +1,5 @@
+Case ID,Qty Completed,Qty for MRB,activity_duration,hour,timesincelastevent,timesincecasestart,event_nr,open_cases,Activity_Laser Marking - Machine 7,Activity_Packing,Activity_Turning & Milling - Machine 5,Resource_Machine 5 - Turning & Milling,Resource_Machine 7- Laser Marking,Resource_Packing,Report Type_D,Worker ID_ID4491,Worker ID_ID4718,Worker ID_ID4794,Worker ID_ID4882,weekday_0,weekday_1,weekday_4,weekday_6,true_value,predicted_value,relative_error
+Case 111_19,159.0,0.0,6060.0,17.0,6180.0,1186200.0,19.0,41.0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,133980.0,3953684.0,28.509508881922674
+Case 123_19,76.0,0.0,3000.0,15.0,15780.0,398280.0,19.0,53.0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0.0,1597507.0,47.8009275882705
+Case 135_19,21.0,0.0,24600.0,6.0,24960.0,432180.0,19.0,42.0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,276840.0,3248785.0,10.73524418436642
+Case 174_19,16.0,0.0,3600.0,1.0,12240.0,945960.0,19.0,22.0,0,1,0,0,0,1,1,1,0,0,0,0,0,1,0,33420.0,328776.0,8.83770197486535

@@ -1,0 +1,2 @@
+Case ID,Qty Completed,Qty for MRB,activity_duration,hour,timesincelastevent,timesincecasestart,event_nr,open_cases,Predicted_Distance,Activity_Packing,Resource_Packing,Report Type_D,Worker ID_ID4491,weekday_6,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,true_value,predicted_value,relative_error
+Case 53_20,9.0,0.0,3600.0,1.0,137760.0,896640.0,18.0,45.0,0.0,1,1,1,1,1,1,1,1,0.0,258392.19,258392.1875

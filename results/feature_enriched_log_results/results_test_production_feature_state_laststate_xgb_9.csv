@@ -1,0 +1,2 @@
+Case ID,Qty Completed,Qty for MRB,activity_duration,hour,timesincelastevent,timesincecasestart,event_nr,open_cases,Predicted_Distance,Activity_Flat Grinding - Machine 11,Resource_Machine 11 - Grinding,Report Type_D,Worker ID_ID0998,weekday_1,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,true_value,predicted_value,relative_error
+Case 53_15,9.0,0.0,60.0,17.0,108000.0,523500.0,13.0,50.0,0.0,1,1,1,1,1,1,1,1,373140.0,664988.3,0.782141588947848

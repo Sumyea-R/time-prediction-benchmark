@@ -1,0 +1,2 @@
+Case ID,Qty Completed,Qty for MRB,activity_duration,hour,timesincelastevent,timesincecasestart,event_nr,open_cases,Predicted_Distance,Activity_Turning Q.C.,Resource_Quality Check 1,Report Type_D,Worker ID_ID4287,weekday_1,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,true_value,predicted_value,relative_error
+Case 60_8,15.0,0.0,2760.0,8.0,50520.0,373800.0,8.0,52.0,0.0,1,1,1,1,1,1,1,1,61200.0,1946380.1,30.80359681372549

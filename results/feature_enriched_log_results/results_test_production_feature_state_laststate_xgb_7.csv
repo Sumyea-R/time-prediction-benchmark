@@ -1,0 +1,2 @@
+Case ID,Qty Completed,Qty for MRB,activity_duration,hour,timesincelastevent,timesincecasestart,event_nr,open_cases,Predicted_Distance,Activity_Turning & Milling Q.C.,Resource_Quality Check 1,Report Type_D,Worker ID_ID4493,weekday_1,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,true_value,predicted_value,relative_error
+Case 135_20,60.0,0.0,3660.0,9.0,10380.0,442560.0,20.0,42.0,0.0,1,1,1,1,1,1,1,1,266460.0,3482674.5,12.070158748029723

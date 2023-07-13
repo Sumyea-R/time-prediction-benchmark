@@ -1,0 +1,2 @@
+Case ID,Qty Completed,Qty for MRB,activity_duration,hour,timesincelastevent,timesincecasestart,event_nr,open_cases,Predicted_Distance,Activity_Turning & Milling - Machine 5,Resource_Machine 5 - Turning & Milling,Report Type_D,Worker ID_ID4794,weekday_1,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,true_value,predicted_value,relative_error
+Case 135_19,21.0,0.0,24600.0,6.0,24960.0,432180.0,19.0,42.0,0.0,1,1,1,1,1,1,1,1,276840.0,5323651.5,18.230066103164283
