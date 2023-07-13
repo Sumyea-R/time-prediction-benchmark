@@ -1,0 +1,4 @@
+Case ID,duration,elapsed,Predicted_Distance,Activity_Declaration REJECTED by SUPERVISOR,Resource_STAFF MEMBER,id_other,Role_SUPERVISOR,month_11,month_12,weekday_3,hour_10,hour_13,hour_7,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,C_S3_0.0,true_value,predicted_value,relative_error
+declaration 139353_6,2590.233333333333,234831.0,0.0,1,1,1,1,0,1,1,0,0,1,1,1,1,1,3056673.0,1298263.9,0.5752689689083523
+declaration 142449_6,1142.2333333333331,158993.0,0.0,1,1,1,1,1,0,1,1,0,0,1,1,1,1,2183113.0,1340887.9,0.385790898134911
+declaration 142979_6,18.65,181591.0,0.0,1,1,1,1,0,1,1,0,1,0,1,1,1,1,0.0,1156440.0,0.5297206328760811

@@ -1,0 +1,2 @@
+Case ID,duration,elapsed,Predicted_Distance,Activity_Declaration REJECTED by BUDGET OWNER,Resource_STAFF MEMBER,id_other,Role_BUDGET OWNER,month_12,weekday_0,hour_15,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,C_S3_0.0,true_value,predicted_value,relative_error
+declaration 142822_6,4665.7,519903.0,0.0,1,1,1,1,1,1,1,1,1,1,1,1818120.0,1122729.9,0.3824775729874816

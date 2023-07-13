@@ -1,0 +1,5 @@
+Case ID,duration,elapsed,Predicted_Distance,Activity_Declaration SUBMITTED by EMPLOYEE,Resource_STAFF MEMBER,id_other,Role_EMPLOYEE,month_10,month_11,weekday_1,weekday_2,weekday_4,hour_11,hour_12,hour_14,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,C_S3_0.0,true_value,predicted_value,relative_error
+declaration 131033_6,6017.933333333333,1119397.0,0.0,1,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,1142827.0,958527.94,0.1612659330764849
+declaration 131044_6,6017.366666666667,1119236.0,0.0,1,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,1142871.0,958527.94,0.16129822394653465
+declaration 131254_6,1657.8166666666666,1379675.0,0.0,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,1,525595.0,946190.5,0.8002273613713982
+declaration 141910_6,1588.2,511115.0,0.0,1,1,1,1,0,1,0,1,0,0,1,0,1,1,1,1,1049497.0,915424.8,0.1277489954711638

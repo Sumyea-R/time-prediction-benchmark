@@ -1,0 +1,2 @@
+Case ID,duration,elapsed,Predicted_Distance,Activity_Declaration REJECTED by ADMINISTRATION,Resource_STAFF MEMBER,id_other,Role_ADMINISTRATION,month_12,weekday_1,hour_7,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,C_S3_0.0,true_value,predicted_value,relative_error
+declaration 137336_6,0.0333333333333333,317614.0,0.0,1,1,1,1,1,1,1,1,1,1,1,809297.0,848516.75,0.048461504243806665
