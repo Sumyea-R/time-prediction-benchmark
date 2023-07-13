@@ -1,0 +1,2 @@
+part;dataset;method;cls;n_clusters;n_estimators;learning_rate;subsample;max_depth;colsample_bytree;nr_events;metric;score
+1;bpic2020;state_agg;xgb;1;100;0.02;0.5;3;0.6;1;mae;303960.47693772207
