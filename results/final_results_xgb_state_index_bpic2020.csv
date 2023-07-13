@@ -1,0 +1,7 @@
+dataset;method;cls;nr_events;metric;score;nr_cases
+bpic2020;state_index;xgb;1;mae;528661.0903114678;2100
+bpic2020;state_index;xgb;2;mae;430799.8580202312;2076
+bpic2020;state_index;xgb;3;mae;343549.6220528823;2073
+bpic2020;state_index;xgb;4;mae;218393.19560886425;2018
+bpic2020;state_index;xgb;5;mae;79657.18209630431;2010
+bpic2020;state_index;xgb;6;mae;75510.12738797566;854

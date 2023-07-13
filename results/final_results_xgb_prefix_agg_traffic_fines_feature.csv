@@ -1,0 +1,6 @@
+dataset;method;cls;nr_events;metric;score;nr_cases
+traffic_fines_feature;prefix_agg;xgb;1;mae;28500607.045024358;30074
+traffic_fines_feature;prefix_agg;xgb;2;mae;9374761.683361255;30074
+traffic_fines_feature;prefix_agg;xgb;3;mae;17595583.489704754;14552
+traffic_fines_feature;prefix_agg;xgb;4;mae;8505257.685050128;14363
+traffic_fines_feature;prefix_agg;xgb;5;mae;3532522.3040879373;14324
