@@ -1,0 +1,2 @@
+Case ID,expense,duration,month,weekday,hour,Predicted_Distance,Activity_Send Fine,Resource_849.0,lastSent_missing,notificationType_missing,dismissal_#,Segment_Prediction_0,C_S1_0.0,C_S2_0.0,true_value,predicted_value,relative_error
+C21172_4,35.0,46080.0,9.0,4.0,8.0,0.0,1,1,1,1,1,1,1,1,0.0,43071572.0,43071572.0

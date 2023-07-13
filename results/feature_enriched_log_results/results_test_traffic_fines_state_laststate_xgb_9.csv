@@ -1,0 +1,4 @@
+Case ID,expense,duration,month,weekday,hour,Activity_Receive Result Appeal from Prefecture,Resource_40.0,Resource_45.0,lastSent_C,lastSent_missing,notificationType_P,notificationType_missing,dismissal_NIL,true_value,predicted_value,relative_error
+C19061_5,26.0,80580.0,4.0,4.0,8.0,1,0,1,1,0,1,0,1,950400.0,19876800.0,19.914141414141415
+C22308_5,21.6,302460.0,2.0,2.0,9.0,1,1,0,0,1,1,0,1,8550000.0,19876800.0,1.3247719298245615
+S185824_5,30.0,20160.0,6.0,4.0,8.0,1,0,1,0,1,0,1,1,0.0,19876800.0,20.914141414141415
