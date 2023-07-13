@@ -1,0 +1,3 @@
+Case ID,Qty Completed,Qty for MRB,activity_duration,hour,timesincelastevent,timesincecasestart,event_nr,open_cases,Activity_Laser Marking - Machine 7,Resource_Machine 7- Laser Marking,Report Type_D,Worker ID_ID4718,Worker ID_ID4882,weekday_0,weekday_6,true_value,predicted_value,relative_error
+Case 111_19,159.0,0.0,6060.0,17.0,6180.0,1186200.0,19.0,41.0,1,1,1,0,1,1,0,133980.0,4253790.0,30.749440214957456
+Case 123_19,76.0,0.0,3000.0,15.0,15780.0,398280.0,19.0,53.0,1,1,1,1,0,0,1,0.0,3052620.8,22.78415248544559
